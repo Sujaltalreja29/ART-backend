@@ -5,7 +5,7 @@ import asyncio
 from fastapi.middleware.cors import CORSMiddleware
 
 # Import your existing classes
-from .analyzer import (
+from analyzer import (
     VideoParameterAnalyzer,
     CompanyInfo,
     CompetitorAnalyzer,
