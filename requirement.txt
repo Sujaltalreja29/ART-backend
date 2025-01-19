@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+openai
+youtube-transcript-api
+scikit-learn
+textblob
+googletrans
+python-multipart
+typing-extensions
+aiohttp
