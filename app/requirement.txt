@@ -10,4 +10,5 @@ textblob
 googletrans
 python-multipart
 typing-extensions
+gunicorn==21.2.0
 aiohttp
